@@ -52,6 +52,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+disqus:
+  shortname: benigncycles
+
 podcast:
   title: Benign cycles
   description: A podcast where we talk science, the world, small trivia and repeatedly return to them.
