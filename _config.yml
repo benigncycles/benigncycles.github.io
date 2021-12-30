@@ -23,7 +23,7 @@ email: benigncycles@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A podcast where we talk science, the world, small trivia and repeatedly return to them.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://benigncycles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -67,4 +67,4 @@ podcast:
   type: episodic # episodic | serial
   explicit: false # true | false
   complete: no # 'yes' | 'no'
-  block: yes # 'yes' | 'no'
+  block: yes # 'yes' | 'no' https://www.feedforall.com/itune-tutorial-tags.htm
