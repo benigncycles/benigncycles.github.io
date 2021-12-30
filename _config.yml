@@ -51,3 +51,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+podcast:
+  title: Benign cycles
+  description: A podcast where we talk science, the world, small trivia and repeatedly return to them.
+  url: /podcast.xml # podcast xml url
+  author: Benign cycles
+  email: benigncycles@gmail.com
+  logo: [podcast logo url] # logo in 1400 – 3000 pixel
+  language: en-gb # http://www.loc.gov/standards/iso639-2/php/code_list.php
+  category: Society &amp; Culture # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
+  type: episodic # episodic | serial
+  explicit: false # true | false
+  complete: no # 'yes' | 'no'
+  block: yes # 'yes' | 'no'
