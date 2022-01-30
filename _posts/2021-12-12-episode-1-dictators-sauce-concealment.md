@@ -12,7 +12,7 @@ length: 2577 # in seconds
 ---
 
 - We said *circles* the first 2 episodes, just imagine we got our own name right
-- [How to make everything](https://www.youtube.com/c/MakeEverythingTv), [Garum epsiode](https://www.youtube.com/watch?v=StoZrjiCLvs), *condiment* was the word we were
+- [How to make everything](https://www.youtube.com/c/MakeEverythingTv), [Garum epsiode](https://www.youtube.com/watch?v=StoZrjiCLvs), *condiment* was the word we were missing
 - [Risk concealment](https://link.springer.com/book/10.1007/978-3-319-24301-6)
 - [Dictators handbook](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook)/[Economics of political survival](https://mitpress.mit.edu/books/logic-political-survival)
 - We probably got the DAG discussion wrong, sorry
