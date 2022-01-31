@@ -61,7 +61,7 @@ podcast:
   url: /podcast.xml # podcast xml url
   author: Benign cycles
   email: benigncycles@gmail.com
-  logo: [podcast logo url] # logo in 1400 – 3000 pixel
+  logo: /assets/logo-feed.jpg # logo in 1400 – 3000 pixel
   language: en-gb # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: Society &amp; Culture # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
   type: episodic # episodic | serial
