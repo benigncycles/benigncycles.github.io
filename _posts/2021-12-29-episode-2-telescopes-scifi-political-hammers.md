@@ -3,6 +3,12 @@ layout: post
 title:  "Episode 2: Telescope, scifi and political hammers"
 date:   2021-12-29 13:44:27 +0100
 categories: podcast
+season: 1
+episode: 2
+episodeType: full # full | trailer | bonus
+explicit: false # true | false
+audio: https://anchor.fm/s/7b9fd35c/podcast/play/46949723/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-31%2F245328170-44100-2-d0c4a8beccae5.m4a
+length: 3292 # in seconds
 ---
 
 - Hopefully the last time we get our name wrong. It's *cycles* not circles.
